@@ -1,7 +1,7 @@
 - 👋 Known as Michel
 - 👀 Junior Full  Stack Web Developer
 - 🌱 Vanilla Javascript, Express with Node.js, Postgresql, Mysql, React.js
-- 💞️ Looking for job opportunities related to the above technologies, especially Front-End
+- 💞️ Looking for job opportunities related to the above technologies, especially Front-End, My repos are private
 - 📫 My Socials: twitter: @tsiorisoa_pro
 
 <!---
